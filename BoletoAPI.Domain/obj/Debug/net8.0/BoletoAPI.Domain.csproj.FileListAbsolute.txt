@@ -1,0 +1,11 @@
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\bin\Debug\net8.0\BoletoAPI.Domain.deps.json
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\bin\Debug\net8.0\BoletoAPI.Domain.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\bin\Debug\net8.0\BoletoAPI.Domain.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\BoletoAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\BoletoAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\BoletoAPI.Domain.AssemblyInfo.cs
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\BoletoAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\BoletoAPI.Domain.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\refint\BoletoAPI.Domain.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\BoletoAPI.Domain.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Domain\obj\Debug\net8.0\ref\BoletoAPI.Domain.dll

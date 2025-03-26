@@ -1,0 +1,7 @@
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.API\obj\Debug\net8.0\BoletoAPI.API.csproj.AssemblyReference.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.API\obj\Debug\net8.0\BoletoAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.API\obj\Debug\net8.0\BoletoAPI.API.AssemblyInfoInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.API\obj\Debug\net8.0\BoletoAPI.API.AssemblyInfo.cs
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.API\obj\Debug\net8.0\BoletoAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.API\obj\Debug\net8.0\BoletoAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.API\obj\Debug\net8.0\BoletoAPI.API.MvcApplicationPartsAssemblyInfo.cache

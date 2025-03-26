@@ -1,0 +1,17 @@
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\bin\Debug\net8.0\BoletoAPI.Infrastructure.deps.json
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\bin\Debug\net8.0\BoletoAPI.Infrastructure.runtimeconfig.json
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\bin\Debug\net8.0\BoletoAPI.Infrastructure.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\bin\Debug\net8.0\BoletoAPI.Infrastructure.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\bin\Debug\net8.0\BoletoAPI.Domain.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\bin\Debug\net8.0\BoletoAPI.Domain.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAP.758C2886.Up2Date
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\refint\BoletoAPI.Infrastructure.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\BoletoAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Infrastructure\obj\Debug\net8.0\ref\BoletoAPI.Infrastructure.dll

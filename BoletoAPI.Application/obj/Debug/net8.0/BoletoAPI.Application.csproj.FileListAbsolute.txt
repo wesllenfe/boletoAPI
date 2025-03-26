@@ -1,0 +1,17 @@
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\bin\Debug\net8.0\BoletoAPI.Application.deps.json
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\bin\Debug\net8.0\BoletoAPI.Application.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\bin\Debug\net8.0\BoletoAPI.Application.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\bin\Debug\net8.0\BoletoAPI.Domain.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\bin\Debug\net8.0\BoletoAPI.Infrastructure.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\bin\Debug\net8.0\BoletoAPI.Domain.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\bin\Debug\net8.0\BoletoAPI.Infrastructure.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAPI.Application.csproj.AssemblyReference.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAPI.Application.AssemblyInfoInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAPI.Application.AssemblyInfo.cs
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAP.1D2FC833.Up2Date
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAPI.Application.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\refint\BoletoAPI.Application.dll
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\BoletoAPI.Application.pdb
+C:\Users\wesll\Documents\portifolio\boletoAPI\BoletoAPI.Application\obj\Debug\net8.0\ref\BoletoAPI.Application.dll
